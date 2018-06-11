@@ -1,0 +1,8 @@
+/node_modules
+bundle.js
+npm-debug.log
+.DS_Store
+const API_KEY = 'AIzaSyA7HF5HCANwr_5mXtYtXbFiw0Vh7b5eJ1g';
+# IntelliJ
+*.iml
+/.idea
